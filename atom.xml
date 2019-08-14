@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelni.github.io/photo/</id>
     <title>Sky</title>
-    <updated>2019-08-14T15:41:10.946Z</updated>
+    <updated>2019-08-14T16:23:22.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelni.github.io/photo/"/>
     <link rel="self" href="https://angelni.github.io/photo//atom.xml"/>
@@ -11,44 +11,93 @@
     <icon>https://angelni.github.io/photo//favicon.ico</icon>
     <rights>All rights reserved 2019, Sky</rights>
     <entry>
-        <title type="html"><![CDATA[美好的一天]]></title>
-        <id>https://angelni.github.io/photo//post/mei-hao-de-yi-tian</id>
-        <link href="https://angelni.github.io/photo//post/mei-hao-de-yi-tian">
+        <title type="html"><![CDATA[我上报纸了]]></title>
+        <id>https://angelni.github.io/photo//post/wo-shang-bao-zhi-liao</id>
+        <link href="https://angelni.github.io/photo//post/wo-shang-bao-zhi-liao">
         </link>
-        <updated>2019-08-14T11:50:00.000Z</updated>
-        <content type="html"><![CDATA[<p>美好的一天</p>
+        <updated>2019-08-14T16:20:54.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://angelni.github.io/photo//post/hello-gridea</id>
-        <link href="https://angelni.github.io/photo//post/hello-gridea">
+        <title type="html"><![CDATA[夏天的晚霞]]></title>
+        <id>https://angelni.github.io/photo//post/xia-tian-zhen-ta-me-re</id>
+        <link href="https://angelni.github.io/photo//post/xia-tian-zhen-ta-me-re">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2019-08-14T16:17:40.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影视城]]></title>
+        <id>https://angelni.github.io/photo//post/ying-shi-cheng</id>
+        <link href="https://angelni.github.io/photo//post/ying-shi-cheng">
+        </link>
+        <updated>2019-08-14T16:16:31.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬至包饺子]]></title>
+        <id>https://angelni.github.io/photo//post/dong-zhi-bao-jiao-zi</id>
+        <link href="https://angelni.github.io/photo//post/dong-zhi-bao-jiao-zi">
+        </link>
+        <updated>2019-08-14T16:15:19.000Z</updated>
+        <content type="html"><![CDATA[<p>2018年12月22日</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是一名志愿者]]></title>
+        <id>https://angelni.github.io/photo//post/wo-shi-yi-ming-zhi-yuan-zhe</id>
+        <link href="https://angelni.github.io/photo//post/wo-shi-yi-ming-zhi-yuan-zhe">
+        </link>
+        <updated>2019-08-14T16:14:45.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大海的对面是天空]]></title>
+        <id>https://angelni.github.io/photo//post/da-hai-de-dui-mian-shi-tian-kong</id>
+        <link href="https://angelni.github.io/photo//post/da-hai-de-dui-mian-shi-tian-kong">
+        </link>
+        <updated>2019-08-14T16:12:58.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参加辩论赛的我]]></title>
+        <id>https://angelni.github.io/photo//post/can-jia-bian-lun-sai-de-wo</id>
+        <link href="https://angelni.github.io/photo//post/can-jia-bian-lun-sai-de-wo">
+        </link>
+        <updated>2019-08-14T16:11:13.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黎明时的天安门]]></title>
+        <id>https://angelni.github.io/photo//post/li-ming-shi-de-tian-an-men</id>
+        <link href="https://angelni.github.io/photo//post/li-ming-shi-de-tian-an-men">
+        </link>
+        <updated>2019-08-14T16:09:24.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一百多岁的你]]></title>
+        <id>https://angelni.github.io/photo//post/yi-bai-duo-sui-de-ni</id>
+        <link href="https://angelni.github.io/photo//post/yi-bai-duo-sui-de-ni">
+        </link>
+        <updated>2019-08-14T16:07:46.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三教]]></title>
+        <id>https://angelni.github.io/photo//post/san-jiao</id>
+        <link href="https://angelni.github.io/photo//post/san-jiao">
+        </link>
+        <updated>2019-08-14T16:06:08.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
 ]]></content>
     </entry>
 </feed>
