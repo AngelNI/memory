@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelni.github.io/photo/</id>
     <title>Sky</title>
-    <updated>2019-08-15T08:56:41.966Z</updated>
+    <updated>2019-08-17T18:19:37.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelni.github.io/photo/"/>
     <link rel="self" href="https://angelni.github.io/photo//atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://angelni.github.io/photo//post/xia-tian-zhen-ta-me-re">
         </link>
         <updated>2019-08-14T16:17:40.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
+        <content type="html"><![CDATA[<p>这个夏天热的我发慌，动一动浑身汗。</p>
 ]]></content>
     </entry>
     <entry>
@@ -34,7 +34,9 @@
         <link href="https://angelni.github.io/photo//post/mei-hao-de-yi-tian">
         </link>
         <updated>2019-08-14T11:50:00.000Z</updated>
-        <content type="html"><![CDATA[<p>美好的一天</p>
+        <content type="html"><![CDATA[<p>难得的晴空万里。</p>
+<p>高温警告！</p>
+<p>高温警告！</p>
 ]]></content>
     </entry>
     <entry>
@@ -43,7 +45,7 @@
         <link href="https://angelni.github.io/photo//post/da-hai-de-dui-mian-shi-tian-kong">
         </link>
         <updated>2019-07-14T16:12:58.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
+        <content type="html"><![CDATA[<p>On the opposite side of the sea is the sky.</p>
 ]]></content>
     </entry>
     <entry>
@@ -70,7 +72,7 @@
         <link href="https://angelni.github.io/photo//post/wo-shang-bao-zhi-liao">
         </link>
         <updated>2019-05-18T16:20:54.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
+        <content type="html"><![CDATA[<p>猜猜我在哪里。</p>
 ]]></content>
     </entry>
     <entry>
