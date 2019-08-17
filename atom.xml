@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelni.github.io/photo/</id>
     <title>Sky</title>
-    <updated>2019-08-17T18:19:37.701Z</updated>
+    <updated>2019-08-17T18:20:28.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelni.github.io/photo/"/>
     <link rel="self" href="https://angelni.github.io/photo//atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://angelni.github.io/photo//images/avatar.png</logo>
     <icon>https://angelni.github.io/photo//favicon.ico</icon>
     <rights>All rights reserved 2019, Sky</rights>
+    <entry>
+        <title type="html"><![CDATA[Coding！？]]></title>
+        <id>https://angelni.github.io/photo//post/coding</id>
+        <link href="https://angelni.github.io/photo//post/coding">
+        </link>
+        <updated>2019-08-17T18:05:16.000Z</updated>
+        <content type="html"><![CDATA[<p>有目标才有动力，有方向才知道自己要做什么。</p>
+<p>1.学会使用Ubutu。<br>
+2.继续学习机器学习，深度学习<br>
+3.学算法<br>
+4.学习tensorflow，keras<br>
+5.背单词</p>
+<p>立下的flag，不是为了炫耀，不是为了给别人看，而是作为这个阶段的小目标。<br>
+守卫自己的小红旗。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏天的晚霞]]></title>
         <id>https://angelni.github.io/photo//post/xia-tian-zhen-ta-me-re</id>
@@ -91,15 +107,6 @@
         </link>
         <updated>2019-01-21T21:09:24.000Z</updated>
         <content type="html"><![CDATA[<p>1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬至包饺子]]></title>
-        <id>https://angelni.github.io/photo//post/dong-zhi-bao-jiao-zi</id>
-        <link href="https://angelni.github.io/photo//post/dong-zhi-bao-jiao-zi">
-        </link>
-        <updated>2018-12-21T16:15:19.000Z</updated>
-        <content type="html"><![CDATA[<p>2018年12月22日</p>
 ]]></content>
     </entry>
 </feed>
