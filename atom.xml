@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelni.github.io/photo/</id>
     <title>Sky</title>
-    <updated>2019-08-17T18:20:28.593Z</updated>
+    <updated>2019-08-26T15:43:52.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelni.github.io/photo/"/>
     <link rel="self" href="https://angelni.github.io/photo//atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://angelni.github.io/photo//images/avatar.png</logo>
     <icon>https://angelni.github.io/photo//favicon.ico</icon>
     <rights>All rights reserved 2019, Sky</rights>
+    <entry>
+        <title type="html"><![CDATA[骑行70千米]]></title>
+        <id>https://angelni.github.io/photo//post/qi-xing-70-qian-mi</id>
+        <link href="https://angelni.github.io/photo//post/qi-xing-70-qian-mi">
+        </link>
+        <updated>2019-08-26T15:39:14.000Z</updated>
+        <content type="html"><![CDATA[<p>和小伙伴愉快的出去骑行，回来自己累成狗。</p>
+<p>目标云台山，来返大约70千米。</p>
+<p>冒着小雨，顶着伞，雨中骑行......</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding！？]]></title>
         <id>https://angelni.github.io/photo//post/coding</id>
@@ -97,15 +108,6 @@
         <link href="https://angelni.github.io/photo//post/can-jia-bian-lun-sai-de-wo">
         </link>
         <updated>2019-04-15T16:11:13.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黎明时的天安门]]></title>
-        <id>https://angelni.github.io/photo//post/li-ming-shi-de-tian-an-men</id>
-        <link href="https://angelni.github.io/photo//post/li-ming-shi-de-tian-an-men">
-        </link>
-        <updated>2019-01-21T21:09:24.000Z</updated>
         <content type="html"><![CDATA[<p>1</p>
 ]]></content>
     </entry>
