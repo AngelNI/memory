@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelni.github.io/photo/</id>
     <title>Sky</title>
-    <updated>2019-08-26T15:44:47.838Z</updated>
+    <updated>2019-08-28T09:33:57.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelni.github.io/photo/"/>
     <link rel="self" href="https://angelni.github.io/photo//atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://angelni.github.io/photo//images/avatar.png</logo>
     <icon>https://angelni.github.io/photo//favicon.ico</icon>
     <rights>All rights reserved 2019, Sky</rights>
+    <entry>
+        <title type="html"><![CDATA[仰望，只能仰望]]></title>
+        <id>https://angelni.github.io/photo//post/yang-wang-zhi-neng-yang-wang</id>
+        <link href="https://angelni.github.io/photo//post/yang-wang-zhi-neng-yang-wang">
+        </link>
+        <updated>2019-08-28T08:56:41.000Z</updated>
+        <content type="html"><![CDATA[<p>临近开学的前几天，跑去郑州去玩<br>
+天气不算太热，下着稀稀疏疏小雨，<br>
+坐火车到了郑州，坐地铁去了郑大，<br>
+行走在郑大的校园，看着别样的风景，<br>
+新生军训的大队伍，举伞疾走零星的小哥哥小姐姐，<br>
+如花绽放的喷泉水，雨中静默含苞的粉荷花绿藕叶，<br>
+低吼着，等待着<br>
+雨中矗立的钟楼，远远遥望的图书馆<br>
+换上新衣的院楼，人来人往的校门口<br>
+庄严，稳重，高调，朴素<br>
+仰望，仰望吗？<br>
+只有那些从不仰望星空的人，才不会掉进坑中<br>
+只有那些从不掉进坑中的人，就只会居高自乐<br>
+虫儿告诉我，今晚的星星好亮，<br>
+哈哈哈，<br>
+我被骗进坑里了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[骑行70千米]]></title>
         <id>https://angelni.github.io/photo//post/qi-xing-70-qian-mi</id>
@@ -100,15 +124,6 @@
         </link>
         <updated>2019-05-18T16:20:54.000Z</updated>
         <content type="html"><![CDATA[<p>猜猜我在哪里。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[参加辩论赛的我]]></title>
-        <id>https://angelni.github.io/photo//post/can-jia-bian-lun-sai-de-wo</id>
-        <link href="https://angelni.github.io/photo//post/can-jia-bian-lun-sai-de-wo">
-        </link>
-        <updated>2019-04-15T16:11:13.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
 ]]></content>
     </entry>
 </feed>
