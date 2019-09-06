@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelni.github.io/photo/</id>
     <title>Sky</title>
-    <updated>2019-08-28T09:34:54.151Z</updated>
+    <updated>2019-09-06T14:40:18.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelni.github.io/photo/"/>
     <link rel="self" href="https://angelni.github.io/photo//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://angelni.github.io/photo//images/avatar.png</logo>
     <icon>https://angelni.github.io/photo//favicon.ico</icon>
     <rights>All rights reserved 2019, Sky</rights>
+    <entry>
+        <title type="html"><![CDATA[无题]]></title>
+        <id>https://angelni.github.io/photo//post/wu-ti</id>
+        <link href="https://angelni.github.io/photo//post/wu-ti">
+        </link>
+        <updated>2019-09-06T14:38:41.000Z</updated>
+        <content type="html"><![CDATA[<p>也许有时候生活中需要更多的自嘲</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仰望，只能仰望]]></title>
         <id>https://angelni.github.io/photo//post/yang-wang-zhi-neng-yang-wang</id>
@@ -115,15 +124,6 @@
         </link>
         <updated>2019-06-18T16:06:08.000Z</updated>
         <content type="html"><![CDATA[<p>1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我上报纸了]]></title>
-        <id>https://angelni.github.io/photo//post/wo-shang-bao-zhi-liao</id>
-        <link href="https://angelni.github.io/photo//post/wo-shang-bao-zhi-liao">
-        </link>
-        <updated>2019-05-18T16:20:54.000Z</updated>
-        <content type="html"><![CDATA[<p>猜猜我在哪里。</p>
 ]]></content>
     </entry>
 </feed>
